@@ -1,6 +1,6 @@
 # ak-mti-d2-implementation
 
-This project is designed for showcasing and testing MTI/MD2 key exchange algorithm using the `libakrypt` library. It provides functionality to exchange keys between multiple subjects, utilizing MTI/MD2 algorithm.
+This project is designed for showcasing and testing MTI/MD2 key exchange algorithm using the `libakrypt` library. It provides functionality to exchange keys between multiple subjects, utilizing MTI/D2 algorithm.
 
 ## Features
 
